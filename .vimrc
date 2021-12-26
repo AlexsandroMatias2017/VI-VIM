@@ -632,3 +632,9 @@ else
   let g:airline_symbols.readonly = ''
   let g:airline_symbols.linenr = ''
 endif
+
+
+Plug 'jiangmiao/auto-pairs'
+Plug 'zxqfl/tabnine-vim'
+
+
